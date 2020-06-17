@@ -1,0 +1,1 @@
+INSERT INTO citas  VALUES (null, '001', '11', '11');
